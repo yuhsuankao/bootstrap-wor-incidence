@@ -17,6 +17,7 @@ drawn without replacement.
     entry is T\_star).
 
 EXAMPLES ——–
+assuming T_star = 100
 
 ``` r
 library(magrittr)
